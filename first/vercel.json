@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "close-site.html",
-      "dest": "index.html" // Or any other desired destination
+      "dest": "index.html" 
     }
   ]
 }
