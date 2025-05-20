@@ -2,7 +2,8 @@
   "version": 2,
   "builds": [
     {
-      "src": "close-site.html",  
+      "src": "close-site.html",
+      "dest": "index.html" // Or any other desired destination
     }
   ]
 }
