@@ -1,9 +1,9 @@
 {
   "version": 2,
-  "builds": [
+  "routes": [
     {
-      "src": "close-site.html",
-      "dest": "index.html" 
+      "src": "/",
+      "dest": "/close-site.html"
     }
   ]
 }
